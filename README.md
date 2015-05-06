@@ -3,4 +3,4 @@ nodejs, MEAN stack. addUser demo app tutorial from http://cwbuecheler.com/web/tu
 
 To deploy: clone the repo then npm install; npm start
 
-To do: homepage with both elements; styling; data validating
+To do: data validating & styling
