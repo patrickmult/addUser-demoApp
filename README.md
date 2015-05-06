@@ -1,5 +1,6 @@
 # addUser-demoApp
-nodejs, MEAN stack. addUser demo app tutorial 
+nodejs, MEAN stack. addUser demo app tutorial
+
 Tutorial source: http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
 
 Added some additional features to the tutorial.
